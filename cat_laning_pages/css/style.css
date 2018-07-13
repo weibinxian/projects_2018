@@ -1,0 +1,112 @@
+header {
+  background-color: #F0F8FF;
+  padding: 140px 0 100px;
+  background-image: url("../img/jumping_cats.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+@media (min-width: 576px) {
+  header{
+    padding: 200px 0 ;
+  }
+
+}
+.fourth-section{
+    background-color: #F0F8FF;
+    padding: 140px 0 100px;
+    background-image: url("../img/cattern.png");
+    background-size: 192px 192px;
+    /*background-position: center center;*/
+    background-repeat: repeat;
+  }
+}
+.first-sections{
+  background-color: white;
+}
+.second-sections{
+  background-color: #FBFBFB;
+}
+.third-sections{
+  background-color: white;
+}
+.second-sections p{
+  color: #9Da2a6;
+}
+.second-sections img{
+  height: 75px;
+  width: 75px;
+  margin-top: 25px 0 10px;
+}
+.section{
+  padding: 60px 0 40px;
+}
+@media (min-width: 576px) {
+  .section{
+    padding: 100px 0 ;
+  }
+
+}
+.first-section ul {
+  background-color: #F7F9FC;
+  border-radius: 8px;
+  margin-top: 25px;
+  padding: 30px 55px;
+}
+
+.first-section li {
+  margin-bottom: 8px;
+}
+h1{
+  color: #000000;
+  font-size:36px;
+}
+@media (min-width: 567px) {
+  h1{
+  font-size: 48px;
+  }
+}
+body
+{
+  color: #4a4a4a;
+}
+.first-section img {
+margin-bottom: 35px;
+}
+.third-section img{
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+@media (min-width: 768px) {
+  .first-section img {
+  margin-bottom: 20px;
+}
+}
+@media (min-width: 992px) {
+  .first-section img {
+  margin-bottom: 0;
+}
+}
+@media (min-width: 768px) {
+  .third-section img {
+  margin-top: 0;
+}
+}
+.nav-item{
+  margin: 10px 16px;
+}
+.navbar-brand img{
+  height:46px;
+  width: 46px;
+  margin-right: 8px;
+}
+footer{
+  background-color: #ADD8E6;
+  padding: 35px 0;
+}
+footer img{
+  height: 22px;
+  width:22px;
+  margin-bottom: 3px;
+
+}
